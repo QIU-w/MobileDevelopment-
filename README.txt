@@ -8,3 +8,4 @@ The current progress is as follows:
 6.Experiment 6 has been completed, and the screenshots are in the folder named lab06.
 7.Experiment 7 has been completed, and the screenshots are in the folder named lab07.
 8.Experiment 8 has been completed, and the screenshots are in the folder named lab08.
+9.Experiment 9 has been completed, and the screenshots are in the folder named lab09.
