@@ -10,3 +10,6 @@ The current progress is as follows:
 8.Experiment 8 has been completed, and the screenshots are in the folder named lab08.
 9.Experiment 9 has been completed, and the screenshots are in the folder named lab09.
 10.Experiment 10 has been completed, and the screenshots are in the folder named lab10.
+
+The development progress of wechat miniprogram is as follows:
+The first iteration is complete and the commit resource is in the folder named WeiXin-MiniProgram.
