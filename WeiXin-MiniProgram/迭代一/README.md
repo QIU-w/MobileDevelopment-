@@ -2,7 +2,7 @@
 
 本小程序appid：wx520c1503f371483c，已设置为体验版本，小程序体验二维码如下
 
-![./images/experienceQR.jpg](\images\experienceQR.jpg)
+![experienceQR](https://user-images.githubusercontent.com/80507715/169939454-2aa5276c-0cb3-4f6e-acb7-0b0202cbb63b.jpg)
 
 #### 迭代一实现功能（本次，截至5月24日）
 
