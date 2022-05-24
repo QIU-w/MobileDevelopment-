@@ -1,6 +1,8 @@
 ## 微信小程序开发更新文档
 
-本小程序appid：wx520c1503f371483c
+本小程序appid：wx520c1503f371483c，已设置为体验版本，小程序体验二维码如下
+
+![oOXns5D-2wQM6yv8JhFfgygvU7J0](C:\Users\Qiuw\Desktop\oOXns5D-2wQM6yv8JhFfgygvU7J0.jpg)
 
 #### 迭代一实现功能（本次，截至5月24日）
 
