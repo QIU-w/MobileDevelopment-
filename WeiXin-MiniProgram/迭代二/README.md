@@ -6,6 +6,7 @@
 
 #### 本次迭代完成迭代二，并提前完成迭代三、四，实现具体功能如下（本次，截至5月31日）
 
+![oOXns5D-2wQM6yv8JhFfgygvU7J0](https://user-images.githubusercontent.com/80507715/171015354-2cc8fe7d-42c1-4416-9af8-a7105b752dd3.jpg)
 
 
 | 所属原计划阶段 | 功能                       | 描述                                                         |
