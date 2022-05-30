@@ -13,4 +13,4 @@ The current progress is as follows:
 
 The development progress of wechat miniprogram is as follows:
 The first iteration is complete and the commit resource is in the folder named WeiXin-MiniProgram.
-The first, second, third iteration are complete and the commit resource is in the folder named WeiXin-MiniProgram.
+The second, third, fourth iteration are complete and the commit resource is in the folder named WeiXin-MiniProgram.
